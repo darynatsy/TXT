@@ -1,0 +1,10 @@
+favorite movie - "5th element"
+favorite TV show - Breaking Bad
+favorite foods:
+-	vegetables;
+-	fish and seafood;
+-	meat;
+-	pancakes.
+favorite season - spring
+the Country I want to visit - Norway
+

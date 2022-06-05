@@ -1,0 +1,5 @@
+-	Linux Command Line (copy, create, view, move files on servers without GUI, basics of bash scripting, automation of routine tasks on the server)
+-	Fundamentals of SQL (Create, Delete, Drop, Insert into, Select, From, Where, Join)
+-	Jmeter (load testing)
+-	Postman (API testing)
+
